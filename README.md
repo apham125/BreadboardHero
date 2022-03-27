@@ -1,4 +1,7 @@
 # BreadboardHero
+CS120B Introduction to Embedded Systems Final Project
+
+## Complexities/Build Upons
 Complexity 1: Creating menus and implementing custom characters
 >https://drive.google.com/file/d/1371Pp8gQtxMftL4qZOR3Cy3TNaJsfC7J/view?usp=sharing 
 
