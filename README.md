@@ -1,6 +1,17 @@
 # BreadboardHero
-Final Demo
->https://drive.google.com/file/d/1DIfTntr68jKMNHNXrstmexbi18DRqp1Z/view?usp=sharing
+Complexity 1: Creating menus and implementing custom characters
+>https://drive.google.com/file/d/1371Pp8gQtxMftL4qZOR3Cy3TNaJsfC7J/view?usp=sharing 
+
+Complexity 2: Implementing 5x8 LED matrix with shift register 
+>https://drive.google.com/file/d/118g5zl80c4tX_8tITvpPc-mhhgVNgqEL/view?usp=sharing  
+
+Complexity 3:Using eeprom to save scores, adding music, and adding hit/miss messages on lcd
+>https://drive.google.com/file/d/19rsqHC7MYtDOMAPzVz88VDO68wRqH_hR/view?usp=sharing  
+
+## Final Demo
+>https://drive.google.com/file/d/1DIfTntr68jKMNHNXrstmexbi18DRqp1Z/view?usp=sharing 
+
+
 
 ## PROJECT DESCRIPTION:
 For this project, I created a rhythm game similar to guitar hero. Falling notes
