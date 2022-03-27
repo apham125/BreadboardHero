@@ -5,7 +5,7 @@ Complexity 1: Creating menus and implementing custom characters
 Complexity 2: Implementing 5x8 LED matrix with shift register 
 >https://drive.google.com/file/d/118g5zl80c4tX_8tITvpPc-mhhgVNgqEL/view?usp=sharing  
 
-Complexity 3:Using eeprom to save scores, adding music, and adding hit/miss messages on lcd
+Complexity 3: Using eeprom to save scores, adding music, and adding hit/miss messages on lcd
 >https://drive.google.com/file/d/19rsqHC7MYtDOMAPzVz88VDO68wRqH_hR/view?usp=sharing  
 
 ## Final Demo
