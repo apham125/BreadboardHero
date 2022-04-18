@@ -44,15 +44,6 @@ selection menu. At any point of the game, you may press the reset/start button t
 back to the title menu. Press the reset/start button again to resume playing the game as
 usual.
 
-## SPECIAL CONSIDERATIONS:
-I noticed that if you hold the correct button the whole time while the note is falling, as
-long as the button is held when the note reaches the button, you will earn a hit on that
-note. This would make the game very easy since you could just hold the buttons instead
-of doing a single press. I did not know how to adjust this without affecting the combo
-counter. However, if you don’t hold the buttons until the notes reach the bottom row, the
-game will function as intended and be based on timing. Other than that, I did not notice
-any errors with my code.
-
 ## SOURCE FILES:
 * io.c/io.h- Custom char function obtained from
 https://www.electronicwings.com/avr-atmega/lcd-custom-character-display-using-atmega-16-32-
